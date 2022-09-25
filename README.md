@@ -5,5 +5,5 @@
 Para rodar esse projero na sua maquina, por favor digite:
 
 ```
-npm install react
+node app.js
 ```
